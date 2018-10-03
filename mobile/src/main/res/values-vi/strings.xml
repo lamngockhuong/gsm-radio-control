@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GSM Radio Control</string>
+    <string name="navigation_drawer_open">Mở menu</string>
+    <string name="navigation_drawer_close">Đóng menu</string>
+    <string name="menu_control">Điều khiển</string>
+    <string name="menu_guide">Hướng dẫn</string>
+    <string name="menu_setting">Cài đặt</string>
+    <string name="menu_about">Giới thiệu</string>
+    <string name="home_turn_on">Bật đài</string>
+    <string name="home_turn_off">Tắt đài</string>
+    <string name="action_ok">Xác nhận</string>
+    <string name="action_exit">Thoát</string>
+    <string name="permission_request_permissions_info_dialog_title">Bạn cần biết!</string>
+    <string name="permission_request_permissions_info_dialog_message">Ứng dụng cần được cấp một số quyền sau mới có thể chạy được:\n- Quyền đọc/gửi tin nhắn</string>
+    <string name="permission_request_permissions_confirmation_dialog_title">Bạn thật sự không muốn cấp quyền?</string>
+    <string name="permission_request_permissions_confirmation_dialog_message">Ứng dụng không thể hoạt động nếu không được cấp quyền đọc/gửi tin nhắn.\n\nCác chức năng như bật, tắt đài, kiểm tra trạng thái đài,...cần hoạt động qua tin nhắn.\n\nBạn có thể nhấn \"Thoát\" nếu muốn đóng ứng dụng hoặc nhấn \"Cấp quyền\" để thực hiện cấp lại quyền.</string>
+    <string name="action_grant">Cấp lại quyền</string>
+</resources>

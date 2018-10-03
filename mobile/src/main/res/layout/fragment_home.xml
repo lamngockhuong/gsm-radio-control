@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:background="@drawable/bg"
+    tools:context=".fragment.HomeFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:background="#c0faf6f6"
+        android:padding="@dimen/space16">
+
+        <Button
+            android:id="@+id/btn_turn_on"
+            android:layout_width="260dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/space16"
+            android:background="@drawable/rounded_green_border"
+            android:text="@string/home_turn_on"
+            android:textColor="@android:color/white" />
+
+        <Button
+            android:id="@+id/btn_turn_off"
+            android:layout_width="260dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/rounded_red_border"
+            android:text="@string/home_turn_off"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+
+</LinearLayout>

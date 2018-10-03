@@ -1,9 +1,11 @@
-package com.ngockhuong.gsm;
+package com.ngockhuong.gsm.activity;
 
 import android.content.Intent;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.ngockhuong.gsm.R;
 
 public class SplashActivity extends AppCompatActivity {
 

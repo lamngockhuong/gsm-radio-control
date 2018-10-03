@@ -1,3 +1,27 @@
 <resources>
-    <string name="app_name">GMS Radio Control</string>
+    <string name="app_name">GSM Radio Control</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- permission -->
+    <string name="permission_request_permissions_info_dialog_title">Please notice</string>
+    <string name="permission_request_permissions_info_dialog_message">The following permissions are required for the application to work:\n- Read/send the message permissions</string>
+    <string name="permission_request_permissions_confirmation_dialog_title">Confirm permission</string>
+    <string name="permission_request_permissions_confirmation_dialog_message">The application cannot operate without permission to read/send the message.\n\nYou can press \"Exit\" if you want to close the application or press \"Grant\" if you want to grant permission again.</string>
+
+    <!-- action button -->
+    <string name="action_ok">OK</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_grant">Grant</string>
+
+    <!-- menu -->
+    <string name="menu_control">Control Panel</string>
+    <string name="menu_guide">Guide</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_about">About</string>
+
+    <!-- home -->
+    <string name="home_turn_on">Turn on</string>
+    <string name="home_turn_off">Turn off</string>
+
 </resources>
